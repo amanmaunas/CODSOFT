@@ -1,2 +1,2 @@
 # CODSOFT
-This is a Project during My CODSOFT Intern.
+This is a Project Repo during My CODSOFT Intern.
